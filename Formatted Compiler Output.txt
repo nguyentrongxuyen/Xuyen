@@ -1,0 +1,13 @@
+11	8	D:\docde Cau2.cpp	[Error] expected constructor, destructor, or type conversion before '(' token
+12	6	D:\docde Cau2.cpp	[Error] variable or field 'docde' declared void
+12	11	D:\docde Cau2.cpp	[Warning] extended initializer lists only available with -std=c++11 or -std=gnu++11
+13	11	D:\docde Cau2.cpp	[Error] expected primary-expression before 'f'
+13	11	D:\docde Cau2.cpp	[Error] expected '}' before 'f'
+16	9	D:\docde Cau2.cpp	[Error] expected constructor, destructor, or type conversion before '(' token
+17	2	D:\docde Cau2.cpp	[Error] 'SL' does not name a type
+18	2	D:\docde Cau2.cpp	[Error] expected unqualified-id before 'for'
+18	17	D:\docde Cau2.cpp	[Error] 'i' does not name a type
+18	23	D:\docde Cau2.cpp	[Error] 'i' does not name a type
+26	2	D:\docde Cau2.cpp	[Error] 'cout' does not name a type
+26	33	D:\docde Cau2.cpp	[Error] expected constructor, destructor, or type conversion before ';' token
+27	1	D:\docde Cau2.cpp	[Error] expected declaration before '}' token
